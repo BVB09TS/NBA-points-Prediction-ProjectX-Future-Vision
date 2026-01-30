@@ -1,4 +1,4 @@
-# Predict-NBA-player-Points_End-to-end-Project :man_scientist: :hugs: :computer:
+# Predict-NBA-player-Points_full_stack_project :man_scientist: :hugs: :computer:
 
 ![screem.png](https://github.com/M-MSilva/Predict-NBA-player-Points_End-to-end-Project/blob/master/Images/NBA_end_to_end_project/allPictures.png) 
 
@@ -13,11 +13,6 @@ The objective of this project is to predict the points of a basketball player, i
 ## Applications 
 
 The current project can be used to help an athlete in his training to know how many points he would make based on some information, and it can also be used in competitions and betting. Although this program is part of my personal portfolio, feel free to use it for studies, repairs and improvements. :call_me_hand:
-
-## Motivation
-This project was developed to be part of my personal portfolio and served both to test my skills and for my learning, since countless technologies could be used in it. Despite being an end-to-end project, it still needs some future improvements, such as having a larger and more diverse dataset. :smiley:
-
-## Functionalities
 
 ### Developed Web APPs:
 
@@ -102,28 +97,3 @@ done, go to the Deploy folder and type:
 ```bash
 streamlit run PredictPointsWebAPP.py
 ```
-
-
-and see the application run on your machine. :open_mouth:
-
-
-## Contributing
-
-Criticism, doubts and suggestions feel free to send me:
-
-e-mail: marcosmatheusdepaivasilva@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/marcos-matheus-silva-089699b3/ :hugs:
-
-## Author
-
-Marcos Matheus de Paiva Silva
-
-## Credits
-
-Web scraping was done from https://www.nbastuffer.com/player-stats/. The code written in Google Colaboratory was based on the steps of the book Aurelien Geron - hands on machine learning-2019. In addition, this code was developed based on everything I learned from: Jesse E.Agbe, Siddhardhan, Lucas Grassano Lattari, Shashank Kalanithi, Walisson Silva, Israel Dryer, Fernando Nakamuta,  Alex Freberg.
-
-
-## License
-
-This project is licensed under the MIT License - see the file [LICENSE](LICENSE) for more details.
